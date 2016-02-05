@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "C:\\Users\\marcus\\Desktop\\src\\app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\relay_tablet.xml",
+        "source": "C:\\Users\\marcus\\Desktop\\src\\app\\app\\src\\main\\res\\layout\\relay_tablet.xml"
+    },
+    {
+        "merged": "C:\\Users\\marcus\\Desktop\\src\\app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\leds_tablet.xml",
+        "source": "C:\\Users\\marcus\\Desktop\\src\\app\\app\\src\\main\\res\\layout\\leds_tablet.xml"
+    },
+    {
+        "merged": "C:\\Users\\marcus\\Desktop\\src\\app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\outputcontainer.xml",
+        "source": "C:\\Users\\marcus\\Desktop\\src\\app\\app\\src\\main\\res\\layout\\outputcontainer.xml"
+    },
+    {
+        "merged": "C:\\Users\\marcus\\Desktop\\src\\app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\servo.xml",
+        "source": "C:\\Users\\marcus\\Desktop\\src\\app\\app\\src\\main\\res\\layout\\servo.xml"
+    },
+    {
+        "merged": "C:\\Users\\marcus\\Desktop\\src\\app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\servo_tablet.xml",
+        "source": "C:\\Users\\marcus\\Desktop\\src\\app\\app\\src\\main\\res\\layout\\servo_tablet.xml"
+    },
+    {
+        "merged": "C:\\Users\\marcus\\Desktop\\src\\app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\color_sliders.xml",
+        "source": "C:\\Users\\marcus\\Desktop\\src\\app\\app\\src\\main\\res\\layout\\color_sliders.xml"
+    },
+    {
+        "merged": "C:\\Users\\marcus\\Desktop\\src\\app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\led_slider.xml",
+        "source": "C:\\Users\\marcus\\Desktop\\src\\app\\app\\src\\main\\res\\layout\\led_slider.xml"
+    },
+    {
+        "merged": "C:\\Users\\marcus\\Desktop\\src\\app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\joycontainer.xml",
+        "source": "C:\\Users\\marcus\\Desktop\\src\\app\\app\\src\\main\\res\\layout\\joycontainer.xml"
+    },
+    {
+        "merged": "C:\\Users\\marcus\\Desktop\\src\\app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\output_tablet.xml",
+        "source": "C:\\Users\\marcus\\Desktop\\src\\app\\app\\src\\main\\res\\layout\\output_tablet.xml"
+    },
+    {
+        "merged": "C:\\Users\\marcus\\Desktop\\src\\app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\templightcontainer.xml",
+        "source": "C:\\Users\\marcus\\Desktop\\src\\app\\app\\src\\main\\res\\layout\\templightcontainer.xml"
+    },
+    {
+        "merged": "C:\\Users\\marcus\\Desktop\\src\\app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\inputcontainer.xml",
+        "source": "C:\\Users\\marcus\\Desktop\\src\\app\\app\\src\\main\\res\\layout\\inputcontainer.xml"
+    },
+    {
+        "merged": "C:\\Users\\marcus\\Desktop\\src\\app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\relaybutton.xml",
+        "source": "C:\\Users\\marcus\\Desktop\\src\\app\\app\\src\\main\\res\\layout\\relaybutton.xml"
+    },
+    {
+        "merged": "C:\\Users\\marcus\\Desktop\\src\\app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\vertical_color_sliders.xml",
+        "source": "C:\\Users\\marcus\\Desktop\\src\\app\\app\\src\\main\\res\\layout\\vertical_color_sliders.xml"
+    },
+    {
+        "merged": "C:\\Users\\marcus\\Desktop\\src\\app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "C:\\Users\\marcus\\Desktop\\src\\app\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\marcus\\Desktop\\src\\app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\servorelay.xml",
+        "source": "C:\\Users\\marcus\\Desktop\\src\\app\\app\\src\\main\\res\\layout\\servorelay.xml"
+    },
+    {
+        "merged": "C:\\Users\\marcus\\Desktop\\src\\app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\no_device.xml",
+        "source": "C:\\Users\\marcus\\Desktop\\src\\app\\app\\src\\main\\res\\layout\\no_device.xml"
+    },
+    {
+        "merged": "C:\\Users\\marcus\\Desktop\\src\\app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\vertical_led_slider.xml",
+        "source": "C:\\Users\\marcus\\Desktop\\src\\app\\app\\src\\main\\res\\layout\\vertical_led_slider.xml"
+    },
+    {
+        "merged": "C:\\Users\\marcus\\Desktop\\src\\app\\app\\build\\intermediates\\res\\merged\\debug\\layout\\buttoncontainer.xml",
+        "source": "C:\\Users\\marcus\\Desktop\\src\\app\\app\\src\\main\\res\\layout\\buttoncontainer.xml"
+    }
+]

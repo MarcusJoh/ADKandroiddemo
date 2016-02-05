@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\marcus\\Desktop\\src\\app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\demokit_splash.png",
+        "source": "C:\\Users\\marcus\\Desktop\\src\\app\\app\\src\\main\\res\\drawable-nodpi\\demokit_splash.png"
+    },
+    {
+        "merged": "C:\\Users\\marcus\\Desktop\\src\\app\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\background_holo_dark.jpg",
+        "source": "C:\\Users\\marcus\\Desktop\\src\\app\\app\\src\\main\\res\\drawable-nodpi\\background_holo_dark.jpg"
+    }
+]

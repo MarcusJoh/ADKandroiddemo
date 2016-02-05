@@ -1,0 +1,101 @@
+ECLIPSE ANDROID PROJECT IMPORT SUMMARY
+======================================
+
+Ignored Files:
+--------------
+The following files were *not* copied into the new Gradle project; you
+should evaluate whether these are still needed in your project and if
+so manually move them:
+
+From lab2uppgift1:
+* ic_launcher-web.png
+* microbridge-arduino-master\
+* microbridge-arduino-master\.gitignore
+* microbridge-arduino-master\Adb.cpp
+* microbridge-arduino-master\Adb.h
+* microbridge-arduino-master\LICENSE
+* microbridge-arduino-master\README.md
+* microbridge-arduino-master\Readme.txt
+* microbridge-arduino-master\ch9.h
+* microbridge-arduino-master\examples\
+* microbridge-arduino-master\examples\Demo\
+* microbridge-arduino-master\examples\Demo\Demo.ino
+* microbridge-arduino-master\examples\Logcat\
+* microbridge-arduino-master\examples\Logcat\Logcat.ino
+* microbridge-arduino-master\examples\Reboot\
+* microbridge-arduino-master\examples\Reboot\Reboot.ino
+* microbridge-arduino-master\examples\SeeeduinoADKDemo\
+* microbridge-arduino-master\examples\SeeeduinoADKDemo\SeeeduinoADKDemo.ino
+* microbridge-arduino-master\examples\Shell\
+* microbridge-arduino-master\examples\Shell\Shell.ino
+* microbridge-arduino-master\examples\WriteFile\
+* microbridge-arduino-master\examples\WriteFile\WriteFile.ino
+* microbridge-arduino-master\max3421e.cpp
+* microbridge-arduino-master\max3421e.h
+* microbridge-arduino-master\max3421e_constants.h
+* microbridge-arduino-master\usb.cpp
+* microbridge-arduino-master\usb.h
+* proguard-project.txt
+From microbridge-arduino-master:
+* .gitignore
+* Adb.cpp
+* Adb.h
+* LICENSE
+* README.md
+* Readme.txt
+* ch9.h
+* examples\
+* examples\Demo\
+* examples\Demo\Demo.ino
+* examples\Logcat\
+* examples\Logcat\Logcat.ino
+* examples\Reboot\
+* examples\Reboot\Reboot.ino
+* examples\SeeeduinoADKDemo\
+* examples\SeeeduinoADKDemo\SeeeduinoADKDemo.ino
+* examples\Shell\
+* examples\Shell\Shell.ino
+* examples\WriteFile\
+* examples\WriteFile\WriteFile.ino
+* max3421e.cpp
+* max3421e.h
+* max3421e_constants.h
+* usb.cpp
+* usb.h
+
+Replaced Jars with Dependencies:
+--------------------------------
+The importer recognized the following .jar files as third party
+libraries and replaced them with Gradle dependencies instead. This has
+the advantage that more explicit version information is known, and the
+libraries can be updated automatically. However, it is possible that
+the .jar file in your project was of an older version than the
+dependency we picked, which could render the project not compileable.
+You can disable the jar replacement in the import wizard and try again:
+
+android-support-v4.jar => com.android.support:support-v4:19.1.0
+
+Moved Files:
+------------
+Android Gradle projects use a different directory structure than ADT
+Eclipse projects. Here's how the projects were restructured:
+
+* AndroidManifest.xml => lab2uppgift1\src\main\AndroidManifest.xml
+* assets\ => lab2uppgift1\src\main\assets
+* res\ => lab2uppgift1\src\main\res\
+* src\ => lab2uppgift1\src\main\java\
+
+Next Steps:
+-----------
+You can now build the project. The Gradle project needs network
+connectivity to download dependencies.
+
+Bugs:
+-----
+If for some reason your project does not build, and you determine that
+it is due to a bug or limitation of the Eclipse to Gradle importer,
+please file a bug at http://b.android.com with category
+Component-Tools.
+
+(This import summary is for your information only, and can be deleted
+after import once you are satisfied with the results.)
