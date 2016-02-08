@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="microbridgearduinomaster.microbridgearduinomaster">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/microbridgearduinomaster/build/libs/microbridgearduinomaster.jar!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>

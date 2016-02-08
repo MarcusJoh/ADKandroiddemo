@@ -1,5 +1,9 @@
 [
     {
+        "merged": "C:\\Users\\marcus\\Documents\\GitHub\\ADKandroiddemo\\Lab\\android\\src\\lab2uppgift2\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "C:\\Users\\marcus\\Documents\\GitHub\\ADKandroiddemo\\Lab\\android\\src\\lab2uppgift2\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
         "merged": "C:\\Users\\marcus\\Desktop\\src\\lab2uppgift2\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
         "source": "C:\\Users\\marcus\\Desktop\\src\\lab2uppgift2\\app\\src\\main\\res\\menu\\main.xml"
     }
